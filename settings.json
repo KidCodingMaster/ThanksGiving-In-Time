@@ -1,4 +1,6 @@
 {
     "screen_width": 1280,
-    "screen_height": 720
+    "screen_height": 720,
+    "player_start_x": 640,
+    "player_start_y": 100
 }
