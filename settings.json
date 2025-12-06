@@ -1,6 +1,8 @@
 {
     "screen_width": 1280,
     "screen_height": 720,
+    "center_x": 640,
+    "center_y": 360,
     "player_start_x": 640,
     "player_start_y": 100
 }
