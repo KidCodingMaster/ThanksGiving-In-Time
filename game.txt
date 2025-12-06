@@ -1,0 +1,14 @@
+Player - 
+    Cook
+
+Gameplay -
+    Go around the house and get ingredients for the Thanksgiving dinner
+
+Ingredients - 
+    Turkey - Kids Bedroom
+    Potatoes - Hand Wash
+    ...
+
+Ending - 
+    If you made a good dinner, you win
+    If you didn't, you lose
